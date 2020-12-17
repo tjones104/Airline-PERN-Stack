@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.733934e0.chunk.css",
+    "main.js": "./static/js/main.c7a92f40.chunk.js",
+    "main.js.map": "./static/js/main.c7a92f40.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3c5bdb1d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3c5bdb1d.js.map",
+    "static/css/2.d4c46ee9.chunk.css": "./static/css/2.d4c46ee9.chunk.css",
+    "static/js/2.48620921.chunk.js": "./static/js/2.48620921.chunk.js",
+    "static/js/2.48620921.chunk.js.map": "./static/js/2.48620921.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.d4c46ee9.chunk.css.map": "./static/css/2.d4c46ee9.chunk.css.map",
+    "static/css/main.733934e0.chunk.css.map": "./static/css/main.733934e0.chunk.css.map",
+    "static/js/2.48620921.chunk.js.LICENSE.txt": "./static/js/2.48620921.chunk.js.LICENSE.txt",
+    "static/media/ER Model With Cardinalities.25d406d8.pdf": "./static/media/ER Model With Cardinalities.25d406d8.pdf",
+    "static/media/ER Model.e9a23336.pdf": "./static/media/ER Model.e9a23336.pdf",
+    "static/media/App.css": "./static/media/Plane.05e5f546.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5bdb1d.js",
+    "static/css/2.d4c46ee9.chunk.css",
+    "static/js/2.48620921.chunk.js",
+    "static/css/main.733934e0.chunk.css",
+    "static/js/main.c7a92f40.chunk.js"
+  ]
+}
