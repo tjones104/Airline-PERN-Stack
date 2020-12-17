@@ -4,7 +4,7 @@
 - Tristan Jones
 - Micheal 
 
-## This application is intented to work only with the UH Linux server provided to all CS students; However it can be quickly switched to a local database by changing the database.js file to connect to a local postgresql server.
+### This application is intented to work only with the UH Linux server provided to all CS students; However it can be quickly switched to a local database by changing the database.js file to connect to a local postgresql server.
 
 
 ## Anonymous Grading Instructions 
